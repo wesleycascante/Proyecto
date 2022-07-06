@@ -1,0 +1,46 @@
+body {
+    background: url(img/img2.jpg);
+}
+
+#iniciarsesion {
+    opacity: 1;
+}
+
+.texto {
+    text-align: center;
+    font-size: large;
+    color: #f1f1f1;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.texto a {
+    color: #f1f1f1;
+}
+
+.texto a:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: #222;
+    letter-spacing: 2px;
+    background-color: #f1f1f1;
+    padding: 5px;
+    border-radius: 20px;
+    transition: all 300ms;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #27ae60;
+    letter-spacing: 1px;
+    transition: all 300ms;
+}
+
+
+/*INICIO FOOTER*/
+
+#footer {
+    color: #222;
+}
+
+/*FIN FOOTER*/
